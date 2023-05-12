@@ -10,4 +10,8 @@
 888
 >>>>>>> fenzhi1
 ccc
+<<<<<<< HEAD
 ddddddd
+=======
+aaaaa
+>>>>>>> 12e20199418e3e00775e84dc2d39a5a683b8e8d7
